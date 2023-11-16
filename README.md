@@ -6,7 +6,7 @@ This Python script utilizes the Telethon library to extract credit card informat
 
 ## Disclaimer
 
-**Disclaimer:** This script is intended for educational and demonstrative purposes only. Unauthorized extraction of credit card information is illegal and unethical. Use this script responsibly and only on data for which you have explicit authorization. The author and OpenAI disclaim any responsibility for misuse or consequences resulting from the use of this script.
+**Disclaimer:** This script is intended for educational and demonstrative purposes only. Unauthorized extraction of credit card information is illegal and unethical. Use this script responsibly and only on data for which you have explicit authorization. The author disclaim any responsibility for misuse or consequences resulting from the use of this script.
 
 ## Requirements
 
