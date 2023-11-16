@@ -23,6 +23,15 @@ api_id = 'your_api_id'
 api_hash = 'your_api_hash'
 ```
 
+## Group ID Configuration
+
+Replace the placeholder group IDs in the `group_entities` list with the actual IDs of the Telegram groups you want to monitor.
+
+```python
+# List of group entities (replace with your actual group IDs)
+group_entities = ['-1001833380000', '-1002345678193']
+```
+
 ### Getting Telegram API Credentials
 
 1. Visit [Telegram's website](https://my.telegram.org/auth) and log in.
